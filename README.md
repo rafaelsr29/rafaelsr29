@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @rafaelsr29
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Rafael Rodrigues
 - 🌱 I’m currently learning Python, Kubernetes, Azure, Monitoring
 - 💞️ I’m looking to collaborate on Open Source Devops Tools
 - 📫 How to reach me rafaelsr@live.com
